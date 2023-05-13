@@ -34,6 +34,7 @@ gem 'delegate'
 gem 'tmpdir'
 gem 'tsort'
 gem 'forwardable'
+gem 'rack'
 
 group :production do
   gem "puma"
