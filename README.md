@@ -38,7 +38,7 @@ From the RB185-sinatra-todos directory:
 
 ##Features
 
-- User-Friendly Interface: Easily create and manag e multiple todo lists.
+- User-Friendly Interface: Easily create and manage multiple todo lists.
 - Task Management: Add, complete, delete, and bulk complete tasks within any list.
 - List Overview: Quickly see progress with a summary of completed vs. total tasks for each list.
 - Edit Capabilities: Modify list names or delete lists as needed.
